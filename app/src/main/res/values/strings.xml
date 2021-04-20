@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyGithub</string>
+    <string name="cari_user">Silahkan cari pengguna lain!</string>
+    <string name="text_hint">Cari Teman kamu disini ya!</string>
+    <string name="Following">Following</string>
+    <string name="Followers">Followers</string>
+    <string name="Repository">Repository</string>
+    <string name="section1">Followers</string>
+    <string name="section2">Following</string>
+    <string name="share">Bagikan User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
